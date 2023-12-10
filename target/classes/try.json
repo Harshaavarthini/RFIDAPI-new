@@ -1,0 +1,11 @@
+{
+  "origin_data":"Chennai",
+  "destination_data": "Atlanta",
+  "dimensions": "23*65*67",
+  "sender_data": "Alwin",
+  "receiver_data": "Charan",
+  "sender_phone": "3456789876",
+  "receiver_phone": "11422789876",
+  "product_details": "Laptop"
+
+}

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.ups.rfidtrack.RfiDtrackApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.588 s - in org.ups.rfidtrack.RfiDtrackApplicationTests
